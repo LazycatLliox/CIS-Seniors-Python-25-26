@@ -13,3 +13,7 @@ print("I was a ghost, I was alone")
 print("어두워진 앞길 속에 (ah)")
 print("Given the throne, I didn't know how to believe")
 print("I was the queen that I'm meant to be")
+
+print("")
+print("200 + 400")
+print("Good morning, " + "my name is Atreyu")
