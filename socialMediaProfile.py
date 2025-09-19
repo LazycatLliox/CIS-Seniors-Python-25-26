@@ -8,7 +8,7 @@ Date: 9/18/2025
 # Social Media Variables
 username = "Frieren" 
 bio = "I hate demons "
-quote = ["We traveled together for a mere ten years. I knew human lives were short, but why didn't I try to get to know him better?"]
+quote = ("We traveled together for a mere ten years. I knew human lives were short, but why didn't I try to get to know him better?")
 posts = 150
 followers = 1200
 following = 300
