@@ -15,7 +15,9 @@ favoriteMovie = input("What is your favorite movie? ")
 favoriteSong = input("What is your favorite song? ")
 favoriteFood = input("What is your favorite food? ")
 
-print("Hello, " + firstName + " " + lastName + "!" + "your favorite color is " + favoriteColor + "." "Your favorite movie and tv show are " + favoriteMovie + " and " + favoriteTvShow + "." + "You love the song " + favoriteSong + "." + "You also love to eat " + favoriteFood + ".")
+print("Hello, " + firstName + " " + lastName + "! " + "your favorite color is " + favoriteColor + ". " "Your favorite movie and tv show are " + favoriteMovie + " and " + favoriteTvShow + ". " + "You love the song " + favoriteSong + ". " + "You also love to eat " + favoriteFood + ". ")
+
+print("\n\n")
 
 print(int(firstNumber) + int(secondNumber))
 
