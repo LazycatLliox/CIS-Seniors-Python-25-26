@@ -23,14 +23,10 @@ print("=" * 40)
 
 startingAmount = float(input("Enter the starting amount: "))
 numberOfYears = int(input("Enter the number of years: "))
-intrestRate = float(input("Enter the interest rate (as a decimal): "))
+intrestRate = float(input("Enter the interest rate : "))
 
-# show the report header
-print("\n\nYear\tAmount on Deposit")
-print("-" * 40)
+# convert intrest rate to decimal
+intrestRate = intrestRate / 100
 
 # computations and outputs
 
-totalAmount = startingAmount * (intrestRate) * numberOfYears
-
-print(totalAmount)
