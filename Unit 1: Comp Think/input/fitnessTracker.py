@@ -22,14 +22,14 @@ weeklyCalories = weeklyExerciseHours * 300
 
 print("\nFitness Tracker Profile\n\n")
 
-print("Personal Information")
+print("Personal Information:\n")
 
 print("Username:", userName)
 print("Age:", age)
 print("Weight (lbs):", weight)
 print("Height (in):", height)
 
-print("\n\nFitness Metrics ")
+print("\n\nFitness Metrics:\n")
 print("BMI:" ,BMI)
 print("Weekly Exercise (hours):", weeklyExerciseHours)
 print("Weekly Exercise (minutes):", WeeklyExerciseMinutes)
