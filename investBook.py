@@ -35,5 +35,8 @@ rate = rate / 100
 totalInterest = 0.0
 
 
+# Displat the header 
+
+print("\nYear", "Starting Balance", "Interest Earned", "Ending Balance")
 
 #compute and display the results for each year
